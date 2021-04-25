@@ -1,2 +1,2 @@
 # Homework
-For share my homework more conveniently
+For sharing my homework more conveniently
